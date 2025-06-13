@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Lunarys News</title>
+    <link>https://lunarys-launcher.fr/</link>
+    <description>Actualités du launcher Lunarys</description>
+    <language>fr</language>
+    <lastBuildDate>Fri, 13 Jun 2025 12:00:00 +0000</lastBuildDate>
+
+    <item>
+      <title>Nouvelle mise à jour du launcher v1.1</title>
+      <link>https://lunarys-launcher.fr/blog/maj-1.1</link>
+      <description>Ajout du support de Forge 45.0.9 et de nouveaux fonds d'écran dynamiques.</description>
+      <pubDate>Fri, 13 Jun 2025 11:00:00 +0000</pubDate>
+    </item>
+
+  </channel>
+</rss>
