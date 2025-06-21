@@ -4,26 +4,38 @@
     <title>Lunarys</title>
     <link>lunarys_accueil</link>
     <description>Vous retrouverez ici toutes les actualités de votre serveur favori mais également son histoire</description>
-
+    <language>fr</language>
     <item>
       <title>L'Actu</title>
       <link>https://jesuisundodo2.github.io/mon-rss/lunarys_accueil.html</link>
       <description>Vous retrouverez ici toute l'actualité du serverur</description>
+      <content:encoded><![CDATA[
+    <p>Vous retrouverez sur ce site toute l'actualité du serverur</p
+  ]]></content:encoded>
         <pubDate>Fri, 21 Jun 2025 12:00:00 +0000</pubDate>
+      <author>SenkuTaju</author>
     </item>
 
     <item>
       <title>Les Clans</title>
       <link>https://jesuisundodo2.github.io/mon-rss/lunarys_histoires_clan.html</link>
       <description>Ici, il y a toutes les histoires de vos clan</description>
+      <content:encoded><![CDATA[
+    <p>Ici, il y a toutes les histoires de vos clan</p
+  ]]></content:encoded>
       <pubDate>Fri, 21 Jun 2025 12:00:00 +0000</pubDate>
+      <author>SenkuTaju</author>
     </item>
     
     <item>
       <title>Histoire</title>
       <link>https://jesuisundodo2.github.io/mon-rss/lunarys_histoire.html</link>
       <description>Ici toute l'histoire de Lunarys est écrites rien que pour vous</description>
+      <content:encoded><![CDATA[
+    <p>Ici toute l'histoire de Lunarys est écrites rien que pour vous</p
+  ]]></content:encoded>
       <pubDate>Fri, 21 Jun 2025 12:00:00 +0000</pubDate>
+      <author>SenkuTaju</author>
     </item>
     
   </channel>
