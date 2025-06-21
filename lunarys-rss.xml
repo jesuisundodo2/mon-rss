@@ -12,8 +12,9 @@
       <content:encoded><![CDATA[
     <p>Vous retrouverez sur ce site toute l'actualité du serverur</p
   ]]></content:encoded>
-        <pubDate>Fri, 21 Jun 2025 12:00:00 +0000</pubDate>
       <dc: creator>SenkuTaju</dc: creator>
+        <pubDate>Fri, 21 Jun 2025 12:00:00 +0000</pubDate>
+      
     </item>
 
     <item>
@@ -23,8 +24,9 @@
       <content:encoded><![CDATA[
     <p>Ici, il y a toutes les histoires de vos clan</p
   ]]></content:encoded>
-      <pubDate>Fri, 21 Jun 2025 12:00:00 +0000</pubDate>
       <dc: creator>SenkuTaju</dc: creator>
+      <pubDate>Fri, 21 Jun 2025 12:00:00 +0000</pubDate>
+      
     </item>
     
     <item>
@@ -34,8 +36,9 @@
       <content:encoded><![CDATA[
     <p>Ici toute l'histoire de Lunarys est écrites rien que pour vous</p
   ]]></content:encoded>
-      <pubDate>Fri, 21 Jun 2025 12:00:00 +0000</pubDate>
       <dc: creator>SenkuTaju</dc: creator>
+      <pubDate>Fri, 21 Jun 2025 12:00:00 +0000</pubDate>
+      
     </item>
     
   </channel>
