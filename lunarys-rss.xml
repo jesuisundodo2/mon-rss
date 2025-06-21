@@ -1,18 +1,30 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Lunarys News</title>
-    <link>https://lunarys-launcher.fr/</link>
-    <description>Actualités du launcher Lunarys</description>
-    <language>fr</language>
-    <lastBuildDate>Fri, 13 Jun 2025 12:00:00 +0000</lastBuildDate>
+    <title>Lunarys</title>
+    <link>lunarys_accueil</link>
+    <description>Vous retrouverez ici toutes les actualités de votre serveur favori mais également son histoire</description>
 
     <item>
-      <title>Nouvelle mise à jour du launcher v1.1</title>
-      <link>https://lunarys-launcher.fr/blog/maj-1.1</link>
-      <description>Ajout du support de Forge 45.0.9 et de nouveaux fonds d'écran dynamiques.</description>
-      <pubDate>Fri, 13 Jun 2025 11:00:00 +0000</pubDate>
+      <title>L'Actu</title>
+      <link>lunarys_actu</link>
+      <description>Vous retrouverez ici toute l'actualité du serverur</description>
+        <pubDate>Fri, 21 Jun 2025 12:00:00 +0000</pubDate>
     </item>
 
+    <item>
+      <title>Les Clans</title>
+      <link>Lunarys_clans</link>
+      <description>Ici, il y a tout les objectifs et histoire de vos clan</description>
+      <pubDate>Fri, 21 Jun 2025 12:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+      <title>Histoire</title>
+      <link>Lunarys_histoire</link>
+      <description>Ici toute l'histoire de Lunarys est écrites rien que pour vous</description>
+      <pubDate>Fri, 21 Jun 2025 12:00:00 +0000</pubDate>
+    </item>
+    
   </channel>
 </rss>
