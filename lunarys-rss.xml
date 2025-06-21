@@ -1,44 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
      xmlns:content="http://purl.org/rss/1.0/modules/content/"
-     xmlns:dc="http://purl.org/dc/elements/1.1/">
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lunarys</title>
     <link>https://jesuisundodo2.github.io/mon-rss/lunarys_accueil.html</link>
     <description>Vous retrouverez ici toutes les actualités de votre serveur favori mais également son histoire</description>
     <language>fr</language>
+    <atom:link href="https://jesuisundodo2.github.io/mon-rss/lunarys-rss.xml" rel="self" type="application/rss+xml" />
 
     <item>
       <title>L'Actu</title>
       <link>https://jesuisundodo2.github.io/mon-rss/lunarys_accueil.html</link>
+      <guid isPermaLink="true">https://jesuisundodo2.github.io/mon-rss/lunarys_accueil.html</guid>
       <description>Vous retrouverez ici toute l'actualité du serveur</description>
       <content:encoded><![CDATA[
         <p>Vous retrouverez sur ce site toute l'actualité du serveur</p>
       ]]></content:encoded>
       <dc:creator>SenkuTaju</dc:creator>
-      <pubDate>Fri, 21 Jun 2025 12:00:00 +0000</pubDate>
+      <pubDate>Sat, 21 Jun 2025 12:00:00 +0000</pubDate>
     </item>
 
     <item>
       <title>Les Clans</title>
       <link>https://jesuisundodo2.github.io/mon-rss/lunarys_histoires_clan.html</link>
+      <guid isPermaLink="true">https://jesuisundodo2.github.io/mon-rss/lunarys_histoires_clan.html</guid>
       <description>Ici, il y a toutes les histoires de vos clans</description>
       <content:encoded><![CDATA[
         <p>Ici, il y a toutes les histoires de vos clans</p>
       ]]></content:encoded>
       <dc:creator>SenkuTaju</dc:creator>
-      <pubDate>Fri, 21 Jun 2025 12:00:00 +0000</pubDate>
+      <pubDate>Sat, 21 Jun 2025 12:00:00 +0000</pubDate>
     </item>
     
     <item>
       <title>Histoire</title>
       <link>https://jesuisundodo2.github.io/mon-rss/lunarys_histoire.html</link>
+      <guid isPermaLink="true">https://jesuisundodo2.github.io/mon-rss/lunarys_histoire.html</guid>
       <description>Ici toute l'histoire de Lunarys est écrite rien que pour vous</description>
       <content:encoded><![CDATA[
         <p>Ici toute l'histoire de Lunarys est écrite rien que pour vous</p>
       ]]></content:encoded>
       <dc:creator>SenkuTaju</dc:creator>
-      <pubDate>Fri, 21 Jun 2025 12:00:00 +0000</pubDate>
+      <pubDate>Sat, 21 Jun 2025 12:00:00 +0000</pubDate>
     </item>
     
   </channel>
