@@ -5,14 +5,14 @@
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lunarys</title>
-    <link>https://jesuisundodo2.github.io/mon-rss/lunarys_accueil.html</link>
+    <link>https://jesuisundodo2.github.io/mon-rss/lunarys_Actu.html</link>
     <description>Vous retrouverez ici toutes les actualités de votre serveur favori mais également son histoire</description>
     <language>fr</language>
     <atom:link href="https://jesuisundodo2.github.io/mon-rss/lunarys-rss.xml" rel="self" type="application/rss+xml" />
 
 <item>
       <title>Actu</title>
-      <link>https://jesuisundodo2.github.io/mon-rss/lunarys_accueil.html</link>
+      <link>https://jesuisundodo2.github.io/mon-rss/lunarys_Actu.html</link>
       <guid isPermaLink="true">https://jesuisundodo2.github.io/mon-rss/lunarys_accueil.html</guid>
       <description>Un combat entre un dragon et une sorcière OMG 😱</description>
       <content:encoded><![CDATA[
