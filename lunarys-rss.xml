@@ -10,6 +10,19 @@
     <language>fr</language>
     <atom:link href="https://jesuisundodo2.github.io/mon-rss/lunarys-rss.xml" rel="self" type="application/rss+xml" />
 
+
+       
+     <item>
+      <title>Actu</title>
+      <link>https://jesuisundodo2.github.io/mon-rss/lunarys_accueil.html</link>
+      <guid isPermaLink="true">https://jesuisundodo2.github.io/mon-rss/lunarys_accueil.html</guid>
+      <description>La team Rocket est présente sur le serveur ?</description>
+      <content:encoded><![CDATA[
+        <p>La team Rocket est présente sur le serveur ?</p>
+      ]]></content:encoded>
+      <dc:creator>SenkuTaju</dc:creator>
+      <pubDate>Wed, 25 Jun 2025 11:50:00 +0000</pubDate>
+    </item>
     <item>
       <title>Trailer</title>
       <link>https://www.youtube.com/watch?v=ofuq5KxDdtw</link>
