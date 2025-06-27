@@ -9,7 +9,18 @@
     <description>Vous retrouverez ici toutes les actualités de votre serveur favori mais également son histoire</description>
     <language>fr</language>
     <atom:link href="https://jesuisundodo2.github.io/mon-rss/lunarys-rss.xml" rel="self" type="application/rss+xml" />
-
+<item>
+      <title>Actu</title>
+      <link>https://jesuisundodo2.github.io/mon-rss/lunarys_accueil.html</link>
+      <guid isPermaLink="true">https://jesuisundodo2.github.io/mon-rss/lunarys_accueil.html</guid>
+      <description>Petite sieste au soleil</description>
+     <content:encoded><![CDATA[
+        <p>"Petite sieste au soleil" Koby</p>
+      <img src="https://cdn.discordapp.com/attachments/1376188245234159637/1388150127532703816/image.png?ex=685fef0c&is=685e9d8c&hm=b037fb96599effa4e932d103793b9def08a65c95c3b9510e8fbe1c644015bb61&" alt="Photo" width="300" height="200"></img>
+           ]]></content:encoded>
+      <dc:creator>jesuisundodo</dc:creator>
+      <pubDate>Fri, 27 Jun 2025 16:10:17 +0000</pubDate>
+    </item>
 <item>
       <title>Actu</title>
       <link>https://jesuisundodo2.github.io/mon-rss/lunarys_accueil.html</link>
@@ -21,14 +32,7 @@
            ]]></content:encoded>
       <dc:creator>SenkuTaju</dc:creator>
       <pubDate>Thu, 26 Jun 2025 17:45:00 +0000</pubDate>
-    </item>
-
-
-
-
-
-
-       
+    </item>    
 <item>
       <title>Actu</title>
       <link>https://jesuisundodo2.github.io/mon-rss/lunarys_Actu.html</link>
