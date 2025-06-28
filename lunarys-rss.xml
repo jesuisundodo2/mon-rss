@@ -9,6 +9,22 @@
     <description>Vous retrouverez ici toutes les actualités de votre serveur favori mais également son histoire</description>
     <language>fr</language>
     <atom:link href="https://jesuisundodo2.github.io/mon-rss/lunarys-rss.xml" rel="self" type="application/rss+xml" />
+
+<item>
+      <title>Actu</title>
+      <link>https://jesuisundodo2.github.io/mon-rss/lunarys_accueil.html</link>
+      <guid isPermaLink="true">https://jesuisundodo2.github.io/mon-rss/lunarys_accueil.html</guid>
+      <description>Combat contre l'Ender Dragon !</description>
+     <content:encoded><![CDATA[
+        <p>Combat contre l'Ender Dragon !!</p>
+      <img src="https://www.minecraft-france.fr/wp-content/uploads/2025/03/Apparence-ender-Dragon.webp" alt="Photo" width="300" height="200"></img>
+           ]]></content:encoded>
+      <dc:creator>SenkuTaju</dc:creator>
+      <pubDate>Sat, 28 Jun 2025 03:00:00 +0000</pubDate>
+    </item>
+
+
+       
 <item>
       <title>Actu</title>
       <link>https://jesuisundodo2.github.io/mon-rss/lunarys_accueil.html</link>
