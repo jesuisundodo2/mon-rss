@@ -11,6 +11,21 @@
     <atom:link href="https://jesuisundodo2.github.io/mon-rss/lunarys-rss.xml" rel="self" type="application/rss+xml" />
 
 <item>
+      <title>Actu Spécial</title>
+      <link>https://jesuisundodo2.github.io/mon-rss/lunarys_accueil.html</link>
+      <guid isPermaLink="true">https://jesuisundodo2.github.io/mon-rss/lunarys_accueil.html</guid>
+      <description>ThePinkBoy!</description>
+     <content:encoded><![CDATA[
+        <p> ThePinkBoy ?!</p>
+      </content:encoded>
+      <dc:creator>SenkuTaju</dc:creator>
+      <pubDate>Tue, 07 Jul 2025 01:00:00 +0000</pubDate>
+    </item>
+
+
+
+       
+<item>
       <title>Actu</title>
       <link>https://jesuisundodo2.github.io/mon-rss/lunarys_accueil.html</link>
       <guid isPermaLink="true">https://jesuisundodo2.github.io/mon-rss/lunarys_accueil.html</guid>
