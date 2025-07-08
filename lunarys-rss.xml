@@ -12,17 +12,18 @@
 
      
 <item>
-      <title>Actu</title>
-      <link>https://jesuisundodo2.github.io/mon-rss/lunarys_Actu.html</link>
-      <guid isPermaLink="true">https://jesuisundodo2.github.io/mon-rss/lunarys_accueil.html</guid>
-      <description>Tout le monde se demande qui est Candy ?</description>
-      <content:encoded><![CDATA[
-        <p>Tout le monde se demande qui est Candy ? 😱</p>
-        <p>iframe width="560" height="315" src="https://youtube.com/shorts/yOkHRAG8Cps?si=f2xNJ_MJyf8wjDGc" title="RIP Candy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>   
-      ]]></content:encoded>
-      <dc:creator>SenkuTaju</dc:creator>
-      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
+  <title>Actu</title>
+  <link>https://jesuisundodo2.github.io/mon-rss/lunarys_Actu.html</link>
+  <guid isPermaLink="true">https://jesuisundodo2.github.io/mon-rss/lunarys_Actu.html</guid>
+  <description>Tout le monde se demande qui est Candy ?</description>
+  <content:encoded><![CDATA[
+    <p>Tout le monde se demande qui est Candy ? 😱</p>
+    <p><iframe width="560" height="315" src="https://youtube.com/shorts/yOkHRAG8Cps?si=f2xNJ_MJyf8wjDGc" title="RIP Candy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+  ]]></content:encoded>
+  <dc:creator>SenkuTaju</dc:creator>
+  <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
+</item>
+
 
 
        
